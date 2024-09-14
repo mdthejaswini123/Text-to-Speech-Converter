@@ -1,0 +1,31 @@
+@media only screen and ( max-width:480px)
+{
+   
+    .container textarea{
+        margin-top: 20px;
+        width: 360px;
+        height: 200px;
+        outline: none;
+        font-size: 15px;
+        color: rgb(90, 85, 85);
+        padding: 20px;
+        resize: none;
+        background-color: rgb(239, 207, 247);
+    }
+    .container .row select
+    {
+        width: 295px;
+        border-radius: 10px;
+        padding: 7px;
+    }
+    .container .row button{
+        padding: 9px;
+        border-radius: 10px;
+        width: 53px;
+        border: none;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        background-color:rgb(218, 35, 65) ;
+        color: white;
+       
+    }
+}
